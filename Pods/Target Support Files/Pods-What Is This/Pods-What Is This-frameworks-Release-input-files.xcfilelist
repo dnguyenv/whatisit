@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-What Is This/Pods-What Is This-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ColorThiefSwift/ColorThiefSwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
